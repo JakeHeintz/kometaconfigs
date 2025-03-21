@@ -10,6 +10,9 @@ templates:
       all:
         label: <<smart_label>>
     sort_title: ++++<<collection_name>>
+    collection_filtering: user
+    filters:
+      plays.lt: 1
     summary: The top 250 best <<library_type>>s of all time based on IMDb user ratings.
   charts:
     smart_label:
@@ -18,17 +21,24 @@ templates:
         label: <<smart_label>>
     sort_title: ++++<<collection_name>>
     collection_filtering: user
+    filters:
+      plays.lt: 1
     summary: Collection of <<library_type>>s trending this week on <<website>>, updated every Monday.
     schedule: weekly(monday)
   Chart:
     sort_title: +1_<<num>><<collection_name>>
     sync_mode: sync
     smart_label: random
+    collection_filtering: user
+    filters:
+      plays.lt: 1
   Best of:
     trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
     sort_title: +1_Best of <<year>>
     sync_mode: sync
     collection_filtering: user
+    filters:
+      plays.lt: 1
     summary: Rotten Tomatoes Best of <<year>>
     smart_label: audience_rating.desc
 collections:
@@ -47,5 +57,5 @@ collections:
     summary: Popular Shows across the internet
   Top Pick Shows:
     template: {name: imdb, chart: top}
-  Best of 2024:
+  Best Movies of 2024:
     template: { name: Best of, year: 2025 }
