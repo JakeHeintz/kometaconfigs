@@ -1,0 +1,54 @@
+######################################################
+#                  Chart Collections                 #
+######################################################
+
+templates:
+  imdb:
+    imdb_chart: <<chart>>_<<library_type>>s
+    smart_label:
+      sort_by: audience_rating.desc
+      all:
+        label: <<smart_label>>
+    sort_title: ++++<<collection_name>>
+    summary: The top 250 best <<library_type>>s of all time based on IMDb user ratings.
+  charts:
+    smart_label:
+      sort_by: release.desc
+      all:
+        label: <<smart_label>>
+    sort_title: ++++<<collection_name>>
+    collection_filtering: user
+    summary: Collection of <<library_type>>s trending this week on <<website>>, updated every Monday.
+    schedule: weekly(monday)
+  Chart:
+    sort_title: +1_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
+  Best of:
+    trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
+    sort_title: +1_Best of <<year>>
+    sync_mode: sync
+    collection_filtering: user
+    summary: Rotten Tomatoes Best of <<year>>
+    smart_label: audience_rating.desc
+collections:
+  Trending:
+    template: { name: Chart, num: 2 }
+    trakt_trending: 100
+    tmdb_trending_daily: 100
+    tmdb_trending_weekly: 100
+    summary: Shows Trending across the internet
+  Popular:
+    template: { name: Chart, num: 3 }
+    tmdb_popular: 100
+    imdb_list:
+      url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries
+      limit: 100
+    summary: Popular Shows across the internet
+  Top Picks:
+    template: {name: imdb, chart: top}
+  Trending Picks:
+    template: {name: charts, website: TMDb}
+    tmdb_trending_weekly: 100
+  Best of 2024:
+    template: { name: Best of, year: 2025 }

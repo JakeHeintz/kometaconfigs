@@ -1,0 +1,2533 @@
+metadata:
+  6 Underground:
+    label.sync: Netflix
+  12 Years a Slave:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  '13 Hours: The Secret Soldiers of Benghazi':
+    collection.sync:
+    label.sync: Oscars
+  '21':
+  21 Jump Street:
+  28 Days Later:
+    collection.sync:
+  50 First Dates:
+  '300':
+  '300: Rise of an Empire':
+  '1917':
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  '2001: A Space Odyssey':
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  '2012':
+    label.sync:
+  '7500':
+    label.sync: Prime Video
+  'Abraham Lincoln: Vampire Hunter':
+    collection.sync:
+  Accepted:
+  'Ace Ventura: Pet Detective':
+  'Ace Ventura: When Nature Calls':
+  Across the Universe:
+    label.sync: Oscars
+  Action Point:
+  Ad Astra:
+    label.sync: Oscars
+  Air Force One:
+    label.sync: Oscars
+  Air Force One Down:
+  Airplane!:
+  Akira:
+  Aladdin (1992):
+    match:
+      title: Aladdin
+      year: 1992
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Aladdin (2019):
+    match:
+      title: Aladdin
+      year: 2019
+    collection.sync: Disney Live Action Collection
+  Alexander:
+  Alice in Wonderland (1951):
+    match:
+      title: Alice in Wonderland
+      year: 1951
+    collection.sync: Disney Animation Collection
+  Alice in Wonderland (2010):
+    match:
+      title: Alice in Wonderland
+      year: 2010
+    collection.sync: Disney Live Action Collection
+    label.sync: Oscars
+  Alice Through the Looking Glass:
+    collection.sync: Disney Live Action Collection
+  Alien:
+    collection.sync: Alien Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Alien Resurrection:
+    collection.sync: Alien Collection
+  Alien vs. Predator:
+    collection.sync: Alien Collection
+  'Alien: Covenant':
+    collection.sync: Alien Collection
+  'Alien: Romulus':
+    collection.sync:
+    - The 2025 Oscars
+    - Alien Collection
+    label.sync:
+  Alien³:
+    collection.sync: Alien Collection
+    label.sync: Oscars
+  Aliens:
+    collection.sync: Alien Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  'Aliens vs. Predator: Requiem':
+    collection.sync: Alien Collection
+  All Quiet on the Western Front:
+    label.sync: Oscars
+  Alpha:
+  Amadeus:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Ambulance:
+    collection.sync:
+  American Beauty:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  American Fiction:
+    collection.sync:
+    label.sync: Oscars
+  American Gangster:
+    label.sync: Oscars
+  American Psycho:
+    collection.sync:
+  American Sniper:
+    label.sync: Oscars
+  An American Tail:
+    collection.sync: American Tail Collection
+    label.sync: Oscars
+  'An American Tail: Fievel Goes West':
+    collection.sync: American Tail Collection
+  'An American Tail: The Mystery of the Night Monster':
+    collection.sync: American Tail Collection
+  'An American Tail: The Treasure of Manhattan Island':
+    collection.sync: American Tail Collection
+  Anastasia:
+    label.sync: Oscars
+  Anatomy of a Fall:
+    collection.sync:
+    label.sync: Oscars
+  'Anchorman 2: The Legend Continues':
+  'Anchorman: The Legend of Ron Burgundy':
+  Anora:
+    collection.sync: The 2025 Oscars
+    label.sync: Trending
+  Another Round:
+    label.sync: Oscars
+  Ant-Man:
+    collection.sync: Marvel Collection
+  Ant-Man and the Wasp:
+    collection.sync: Marvel Collection
+  'Ant-Man and the Wasp: Quantumania':
+    collection.sync: Marvel Collection
+  Antebellum:
+    collection.sync:
+  Antichrist:
+  Antz:
+    collection.sync: DreamWorks Collection
+  Apocalypse Now:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Apollo 11:
+  Aquaman:
+    collection.sync: DC Universe Collection
+  Argo:
+    label.sync: Oscars
+  The AristoCats:
+    collection.sync: Disney Animation Collection
+  Armageddon:
+    label.sync: Oscars
+  Army of Darkness:
+    collection.sync:
+  Arrival:
+    collection.sync:
+    label.sync:
+    - Trending
+    - Oscars
+  Arthur the King:
+  As Above, So Below:
+    collection.sync:
+  Assassin 33 A.D.:
+  Assassin's Creed:
+  'Atlantis: The Lost Empire':
+    collection.sync: Disney Animation Collection
+  Austin Powers in Goldmember:
+    collection.sync: Austin Powers Collection
+  'Austin Powers: International Man of Mystery':
+    collection.sync: Austin Powers Collection
+  'Austin Powers: The Spy Who Shagged Me':
+    collection.sync: Austin Powers Collection
+    label.sync: Oscars
+  Avatar:
+    collection.sync: Avatar Collection
+    label.sync:
+    - Trending
+    - Oscars
+  'Avatar: The Way of Water':
+    collection.sync: Avatar Collection
+    label.sync: Oscars
+  The Avengers:
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  'Avengers: Age of Ultron':
+    collection.sync: Marvel Collection
+    label.sync: Trending
+  'Avengers: Endgame':
+    collection.sync: Marvel Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  'Avengers: Infinity War':
+    collection.sync: Marvel Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Baby Driver:
+    collection.sync:
+    label.sync: Oscars
+  Babyteeth:
+  Back to the Future:
+    collection.sync: Back to the Future Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Back to the Future Part II:
+    collection.sync: Back to the Future Collection
+    label.sync: Oscars
+  Back to the Future Part III:
+    collection.sync: Back to the Future Collection
+  Bad Boys for Life:
+  'Bad Boys: Ride or Die':
+  Badland:
+  Bambi:
+    collection.sync: Disney Animation Collection
+  Banana Split:
+  Barbie:
+    collection.sync:
+    label.sync: Oscars
+  Batman:
+    collection.sync: Batman Classic Collection
+    label.sync: Oscars
+  The Batman:
+    collection.sync:
+    label.sync: Oscars
+  Batman & Robin:
+    collection.sync: Batman Classic Collection
+  Batman Begins:
+    collection.sync: Dark Knight Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Batman Forever:
+    collection.sync: Batman Classic Collection
+    label.sync: Oscars
+  Batman Returns:
+    collection.sync: Batman Classic Collection
+    label.sync: Oscars
+  'Batman v Superman: Dawn of Justice':
+  Beastie Boys Story:
+    label.sync: Apple TV+
+  A Beautiful Day in the Neighborhood:
+    label.sync: Oscars
+  Beauty and the Beast:
+    collection.sync: Disney Live Action Collection
+    label.sync: Oscars
+  Because of Winn-Dixie:
+  Bee Movie:
+  The Beekeeper:
+    collection.sync:
+    label.sync: Prime Video
+  Beetlejuice:
+    collection.sync:
+    label.sync: Oscars
+  Being John Malkovich:
+    label.sync: Oscars
+  Belle de Jour:
+  Better Off Single:
+  The Big Chill:
+    label.sync: Oscars
+  Big Daddy:
+    collection.sync: Adam Sandler Collection
+  The Big Lebowski:
+    collection.sync:
+    label.sync: Top Picks
+  The Big Short:
+    label.sync: Oscars
+  Bill & Ted Face the Music:
+    collection.sync: Bill & Ted Collection
+  Bill & Ted's Bogus Journey:
+    collection.sync: Bill & Ted Collection
+  Bill & Ted's Excellent Adventure:
+    collection.sync: Bill & Ted Collection
+  Billy Madison:
+    collection.sync: Adam Sandler Collection
+  Bio-Dome:
+  Black Adam:
+    collection.sync: DC Universe Collection
+  Black Panther:
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  'Black Panther: Wakanda Forever':
+    collection.sync: Marvel Collection
+    label.sync: Oscars
+  Black Widow:
+    collection.sync: Marvel Collection
+  BlackBerry:
+  BlacKkKlansman:
+    label.sync: Oscars
+  Blade:
+    collection.sync:
+  Blade Runner:
+    collection.sync:
+    - Blade Runner Collection
+    - HFRR Movie Night
+    label.sync:
+    - Top Picks
+    - Oscars
+  Blade Runner 2049:
+    collection.sync: Blade Runner Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Blades of Glory:
+  Blazing Saddles:
+    label.sync: Oscars
+  Blow-Up:
+    label.sync: Oscars
+  Blue Beetle:
+  The Bob's Burgers Movie:
+  The Book of Eli:
+  Borat:
+    label.sync: Oscars
+  Borderlands:
+    label.sync: APPROVED
+  Boss:
+  The Bourne Identity:
+  The Boy and the Heron:
+    collection.sync: Studio Ghibli Collection
+    label.sync: Oscars
+  Brave:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Braveheart:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  The Breakfast Club:
+    collection.sync:
+    label.sync: Trending
+  Bridge of Spies:
+    label.sync: Oscars
+  Bridge to Terabithia:
+    collection.sync: Disney Live Action Collection
+  The Brutalist:
+    collection.sync: The 2025 Oscars
+    label.sync: Trending
+  Buffalo Rider:
+  A Bug's Life:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Bullet Train:
+  The Cabin in the Woods:
+    collection.sync:
+  Caddyshack:
+  The Call of the Wild:
+  'Capitalism: A Love Story':
+  'Captain America: Civil War':
+    collection.sync: Marvel Collection
+    label.sync: Trending
+  'Captain America: The First Avenger':
+    collection.sync: Marvel Collection
+    label.sync: Trending
+  'Captain America: The Winter Soldier':
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Captain Marvel:
+    collection.sync: Marvel Collection
+  Cars:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Cars 2:
+    collection.sync: Pixar Collection
+  Cars 3:
+    collection.sync: Pixar Collection
+  Casablanca:
+    collection.sync:
+    label.sync: Top Picks
+  Casino:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Casino Royale:
+    collection.sync:
+    - 007 Collection
+    - HFRR Movie Night
+    label.sync:
+  Casper:
+    collection.sync:
+  Cast Away:
+    label.sync: Oscars
+  Cats:
+    collection.sync:
+  The Central Park Five:
+  Challengers:
+    label.sync:
+    - Best Unwatched 2024 Movies
+    - Best of 2024
+  Chappie:
+  Charlie and the Chocolate Factory:
+    label.sync: Oscars
+  A Charlie Brown Christmas:
+  Charlie Wilson's War:
+    label.sync: Oscars
+  Christine:
+  A Christmas Prince:
+    label.sync: Netflix
+  A Christmas Story:
+  A Christmas Story Christmas:
+    label.sync: Max
+  Christmas Vacation:
+  Christspiracy:
+  The Chronicles of Riddick:
+  Cinema Paradiso:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Civil War:
+    collection.sync: A24
+    label.sync: Trending
+  Clash of the Titans:
+  Click:
+    collection.sync: Adam Sandler Collection
+    label.sync: Oscars
+  Clifford the Big Red Dog:
+  Climax:
+  A Clockwork Orange:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Cloud Atlas:
+  Cocaine Bear:
+  Cocaine Cowboys:
+  Coco:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  CODA:
+    label.sync: Oscars
+  Coming 2 America:
+    label.sync: Oscars
+  Coming to America:
+    label.sync: Oscars
+  Companion:
+    label.sync:
+    - Best of 2024
+    - Trending
+  A Complete Unknown:
+    collection.sync: The 2025 Oscars
+    label.sync: Trending
+  Conclave:
+    collection.sync: The 2025 Oscars
+    label.sync: Trending
+  Concussion:
+  Contagion:
+    collection.sync:
+  Contempt:
+  Cowboys & Aliens:
+  The Crazies:
+  Crazy, Stupid, Love.:
+  The Creator:
+    collection.sync:
+    label.sync: Oscars
+  Cruella:
+    collection.sync: Disney Live Action Collection
+    label.sync: Oscars
+  The Da Vinci Code:
+  Dallas Buyers Club:
+    label.sync: Oscars
+  The Dark Crystal:
+  The Dark Knight:
+    collection.sync: Dark Knight Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  The Dark Knight Rises:
+    collection.sync: Dark Knight Collection
+    label.sync:
+    - Trending
+    - Top Picks
+  Darkest Hour:
+    label.sync: Oscars
+  Dawn of the Planet of the Apes:
+    collection.sync: Planet of the Apes Collection
+    label.sync: Oscars
+  The Day After Tomorrow:
+  Dead Poets Society:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Deadpool:
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+    label.sync: Trending
+  Deadpool & Wolverine:
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+    label.sync: Trending
+  Deadpool 2:
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  Deathtrap:
+  Deep Impact:
+  The Departed:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Devotion:
+  Diamonds Are Forever:
+    collection.sync: 007 Collection
+    label.sync: Oscars
+  'Dicks: The Musical':
+  Die Another Day:
+    collection.sync: 007 Collection
+  Die Hard:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  The Dig:
+    label.sync: Netflix
+  The Disaster Artist:
+    label.sync: Oscars
+  The Discreet Charm of the Bourgeoisie:
+    label.sync: Oscars
+  District 9:
+    label.sync: Oscars
+  Django Unchained:
+    collection.sync: Tarantino Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Doctor Dolittle:
+  Doctor Strange:
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Doctor Strange in the Multiverse of Madness:
+    collection.sync: Marvel Collection
+  'Dodgeball: A True Underdog Story':
+  Dogma:
+  Dolemite Is My Name:
+    label.sync: Netflix
+  Dolittle:
+  The Domestics:
+  Don Jon:
+  Don't Look Up:
+    label.sync: Oscars
+  Donnie Brasco:
+    collection.sync:
+    label.sync: Oscars
+  Donnie Darko:
+    collection.sync:
+  Doom:
+  The Doors:
+  Downton Abbey:
+  'Downton Abbey: A New Era':
+  Dr. No:
+    collection.sync: 007 Collection
+  'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb':
+    collection.sync:
+    label.sync: Top Picks
+  'Dragon Ball Super: Super Hero':
+  Dream Scenario:
+    collection.sync: A24
+  Drive:
+    label.sync: Oscars
+  Dude, Where's My Car?:
+  Due Date:
+  Dumb Money:
+  Dune:
+    label.sync: Oscars
+  'Dune: Part One':
+    collection.sync:
+    label.sync:
+    - Trending
+    - Oscars
+  'Dune: Part Two':
+    collection.sync: The 2025 Oscars
+    label.sync:
+    - Top Picks
+    - Trending
+  'Dungeons & Dragons: Honor Among Thieves':
+  Dunkirk:
+    label.sync: Oscars
+  E.T.:
+    label.sync: Oscars
+  Easy A:
+  Ed Wood:
+    label.sync: Oscars
+  Edward Scissorhands:
+    label.sync: Oscars
+  Eighth Grade:
+  Eileen:
+  Elemental:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  The Elephant Whisperers:
+    label.sync: Oscars
+  Elf:
+  Elvis:
+    label.sync: Oscars
+  Emancipation:
+    label.sync: Apple TV+
+  Emma.:
+    label.sync: Oscars
+  The Emperor's New Groove:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Encanto:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Enter the Void:
+  The Equalizer:
+  The Equalizer 2:
+  The Equalizer 3:
+  'Escape Room: Tournament of Champions':
+  Eternal Sunshine of the Spotless Mind:
+    collection.sync:
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  Eternals:
+    collection.sync: Marvel Collection
+  'Eurovision Song Contest: The Story of Fire Saga':
+    label.sync: Oscars
+  Everything Everywhere All at Once:
+    collection.sync: A24
+    label.sync: Oscars
+  The Evil Dead:
+    collection.sync:
+  Evil Dead II:
+    collection.sync:
+  Evil Dead Rise:
+  Extraction:
+    label.sync: Netflix
+  Eyes Without a Face:
+  'F9: The Fast Saga':
+    collection.sync: Fast & Furious Collection
+  Fahrenheit 9/11:
+  Fahrenheit 11/9:
+  The Fall Guy:
+    collection.sync:
+    label.sync: Trending
+  Fantasia:
+    collection.sync: Disney Animation Collection
+  Fantasia 2000:
+    collection.sync: Disney Animation Collection
+  Fantastic Beasts and Where to Find Them:
+    collection.sync: Wizarding World Collection
+    label.sync: Oscars
+  'Fantastic Beasts: The Crimes of Grindelwald':
+    collection.sync: Wizarding World Collection
+  'Fantastic Beasts: The Secrets of Dumbledore':
+    collection.sync: Wizarding World Collection
+  Fantastic Planet:
+  The Farewell:
+  Fargo:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Fast & Furious:
+    collection.sync: Fast & Furious Collection
+  Fast & Furious 6:
+    collection.sync: Fast & Furious Collection
+  2 Fast 2 Furious:
+    sort_title: Fast and Furious 2
+    collection.sync: Fast & Furious Collection
+  The Fast and the Furious:
+    collection.sync: Fast & Furious Collection
+    label.sync: Trending
+  'The Fast and the Furious: Tokyo Drift':
+    collection.sync: Fast & Furious Collection
+  Fast Color:
+  Fast Five:
+    collection.sync: Fast & Furious Collection
+  Fast X:
+    collection.sync: Fast & Furious Collection
+  The Fate of the Furious:
+    collection.sync: Fast & Furious Collection
+  The Father:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Father of the Bride:
+  Fear and Loathing in Las Vegas:
+  Ferris Bueller's Day Off:
+  The Fifth Element:
+    label.sync: Oscars
+  Fight Club:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  'Final Fantasy VII: Advent Children':
+  'Final Fantasy: The Spirits Within':
+  Finding Dory:
+    collection.sync: Pixar Collection
+  Finding Nemo:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  Firestarter:
+  First Man:
+    label.sync: Oscars
+  The First Omen:
+    label.sync:
+    - Best Unwatched 2024 Movies
+    - Best of 2024
+  Five Nights at Freddy's:
+  Flash Gordon:
+  Flight:
+    label.sync: Oscars
+  The Florida Project:
+    collection.sync: A24
+    label.sync: Oscars
+  For Your Eyes Only:
+    collection.sync: 007 Collection
+    label.sync: Oscars
+  Ford v Ferrari:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  The Forever Purge:
+    collection.sync:
+  Forgetting Sarah Marshall:
+  Forrest Gump:
+    collection.sync:
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  The Fountain:
+  The Fourth Kind:
+    collection.sync:
+  'Fractals: Hunting the Hidden Dimension':
+  Freaky:
+  Freaky Friday:
+  Free Guy:
+    label.sync: Oscars
+  From Black:
+  From Russia with Love:
+    collection.sync: 007 Collection
+  From the Sky Down:
+  Frozen:
+    collection.sync: Disney Animation Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Frozen II:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Full Metal Jacket:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  'Furiosa: A Mad Max Saga':
+    collection.sync:
+    label.sync: APPROVED
+  Furious 7:
+    collection.sync: Fast & Furious Collection
+  Fury:
+  Game Night:
+  The Gentlemen:
+  Geostorm:
+  Get Duked!:
+  Get Me Roger Stone:
+    label.sync: Netflix
+  Get Out:
+    collection.sync:
+    label.sync: Oscars
+  Get Smart:
+  Ghost in the Shell:
+    collection.sync:
+  Ghostbusters:
+    collection.sync:
+    label.sync: Oscars
+  Ghostbusters II:
+    collection.sync:
+  'Ghostbusters: Afterlife':
+    collection.sync:
+  'Ghostbusters: Answer the Call':
+    collection.sync:
+  The Girl with the Dragon Tattoo:
+    label.sync: Oscars
+  Gladiator:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Gladiator II:
+    collection.sync: The 2025 Oscars
+    label.sync: Trending
+  Glass Onion:
+    collection.sync: Knives Out Collection
+    label.sync: Oscars
+  The Godfather:
+    collection.sync: The Godfather Collection
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  The Godfather Part II:
+    collection.sync: The Godfather Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  The Godfather Part III:
+    collection.sync: The Godfather Collection
+    label.sync: Oscars
+  Godzilla (1998):
+    match:
+      title: Godzilla
+      year: 1998
+  Godzilla (2014):
+    match:
+      title: Godzilla
+      year: 2014
+  Godzilla Minus One:
+    collection.sync:
+    label.sync: Oscars
+  Godzilla vs. Kong:
+  'Godzilla x Kong: The New Empire':
+  'Godzilla: King of the Monsters':
+  GoldenEye:
+    collection.sync: 007 Collection
+  Goldfinger:
+    collection.sync: 007 Collection
+  Good Will Hunting:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  The Good, the Bad and the Ugly:
+    collection.sync:
+    label.sync: Top Picks
+  Goodfellas:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  The Grand Budapest Hotel:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Grave of the Fireflies:
+    collection.sync: Studio Ghibli Collection
+    label.sync: Top Picks
+  The Great Dictator:
+    collection.sync:
+    label.sync: Top Picks
+  The Great Gatsby:
+    label.sync: Oscars
+  The Green Knight:
+  Greenland:
+  Greyhound:
+    label.sync: Oscars
+  Groundhog Day:
+    collection.sync:
+    label.sync: Top Picks
+  Guardians of the Galaxy:
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Guardians of the Galaxy Vol. 2:
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Guardians of the Galaxy Vol. 3:
+    title: Guardians of the Galaxy Vol. 3
+    sort_title: Guardians of the Galaxy Vol. 3
+    collection.sync: Marvel Collection
+    label.sync: Oscars
+  Guillermo del Toro's Pinocchio:
+    label.sync: Oscars
+  Guy Ritchie's the Covenant:
+  Hackers:
+  Hail Satan?:
+  Halloween Kills:
+    collection.sync:
+  Halloweentown:
+    collection.sync:
+  Halloweentown High:
+    collection.sync:
+  "Halloweentown II: Kalabar's Revenge":
+    collection.sync:
+  'Halo: Nightfall':
+  Hamilton:
+    collection.sync:
+    label.sync: Top Picks
+  The Hangover:
+  The Happening:
+    collection.sync:
+  Happy Gilmore:
+  Hardcore Henry:
+  Harold & Kumar Get the Munchies:
+  Harry Potter and the Chamber of Secrets:
+    collection.sync: Wizarding World Collection
+    label.sync: Trending
+  'Harry Potter and the Deathly Hallows: Part 1':
+    collection.sync: Wizarding World Collection
+    label.sync: Oscars
+  'Harry Potter and the Deathly Hallows: Part 2':
+    collection.sync: Wizarding World Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Harry Potter and the Goblet of Fire:
+    collection.sync: Wizarding World Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Harry Potter and the Half-Blood Prince:
+    collection.sync: Wizarding World Collection
+    label.sync: Oscars
+  Harry Potter and the Order of the Phoenix:
+    collection.sync: Wizarding World Collection
+    label.sync: Trending
+  Harry Potter and the Prisoner of Azkaban:
+    collection.sync: Wizarding World Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Harry Potter and the Sorcerer's Stone:
+    collection.sync: Wizarding World Collection
+    label.sync:
+    - Trending
+    - Oscars
+  The Hateful Eight:
+    collection.sync: Tarantino Collection
+    label.sync: Oscars
+  Haunted Mansion:
+    collection.sync: Disney Live Action Collection
+  Have a Good Trip:
+    label.sync: Netflix
+  Heat:
+    collection.sync:
+    label.sync: Top Picks
+  Hell House LLC:
+  Hell on the Border:
+  Her:
+    collection.sync:
+    label.sync: Oscars
+  Hercules:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Hereditary:
+  Heretic:
+    collection.sync: A24
+    label.sync: Trending
+  The Hitchhiker's Guide to the Galaxy:
+  'The Hobbit: An Unexpected Journey':
+    collection.sync: Middle-Earth Collection
+    label.sync:
+    - Trending
+    - Oscars
+  'The Hobbit: The Battle of the Five Armies':
+    collection.sync: Middle-Earth Collection
+    label.sync: Oscars
+  'The Hobbit: The Desolation of Smaug':
+    collection.sync: Middle-Earth Collection
+    label.sync: Oscars
+  Hocus Pocus:
+  Hocus Pocus 2:
+    collection.sync: Disney Live Action Collection
+    label.sync: Disney+
+  The Holdovers:
+    collection.sync:
+    label.sync: Oscars
+  Holes:
+  The Holy Mountain:
+  Home Alone:
+    label.sync: Oscars
+  'Home Alone 2: Lost in New York':
+  Home for Rent:
+  'Homeward Bound: The Incredible Journey':
+  Honey, I Shrunk the Kids:
+  Honeyland:
+    label.sync: Oscars
+  Hook:
+    label.sync: Oscars
+  Hot Fuzz:
+  Hot Girls Wanted:
+  Hot Tub Time Machine:
+  Hotel Mumbai:
+  Hotel Rwanda:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  House of 1000 Corpses:
+    collection.sync:
+  House of Gucci:
+    label.sync: Oscars
+  How High:
+  How the Grinch Stole Christmas:
+    label.sync: Oscars
+  How the Grinch Stole Christmas!:
+  How to Train Your Dragon:
+    collection.sync: DreamWorks Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  How to Train Your Dragon 2:
+    collection.sync: DreamWorks Collection
+    label.sync: Oscars
+  'How to Train Your Dragon: Homecoming':
+    collection.sync: DreamWorks Collection
+  'How to Train Your Dragon: The Hidden World':
+    collection.sync: DreamWorks Collection
+    label.sync: Oscars
+  Howl's Moving Castle:
+    collection.sync: Studio Ghibli Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  The Hunger Games:
+    collection.sync: The Hunger Games Collection
+    label.sync:
+  'The Hunger Games: Catching Fire':
+    collection.sync: The Hunger Games Collection
+    label.sync:
+  'The Hunger Games: Mockingjay - Part 1':
+    collection.sync: The Hunger Games Collection
+  'The Hunger Games: Mockingjay - Part 2':
+    collection.sync: The Hunger Games Collection
+  'The Hunger Games: The Ballad of Songbirds & Snakes':
+    collection.sync: The Hunger Games Collection
+  The Hunt:
+  The Hurt Locker:
+    label.sync: Oscars
+  I Am Legend:
+    collection.sync:
+  I Care a Lot:
+    label.sync: Netflix
+  I Used to Go Here:
+  Idiocracy:
+  If These Walls Could Talk:
+  The Imitation Game:
+    label.sync: Oscars
+  In Bruges:
+    label.sync: Oscars
+  In the Heights:
+  Incantation:
+  Inception:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  The Incredible Hulk:
+    collection.sync: Marvel Collection
+  The Incredibles:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Incredibles 2:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Independence Day:
+    label.sync: Oscars
+  Indiana Jones and the Dial of Destiny:
+    collection.sync: Indiana Jones Collection
+    label.sync: Oscars
+  Indiana Jones and the Kingdom of the Crystal Skull:
+    collection.sync: Indiana Jones Collection
+  Indiana Jones and the Last Crusade:
+    collection.sync: Indiana Jones Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Indiana Jones and the Temple of Doom:
+    collection.sync: Indiana Jones Collection
+    label.sync: Oscars
+  Inglourious Basterds:
+    collection.sync: Tarantino Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Inside Man:
+  Inside Out:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Inside Out 2:
+    collection.sync:
+    - The 2025 Oscars
+    - Pixar Collection
+    label.sync:
+  Inspector Gadget:
+  The Interpreter:
+  Interstellar:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  The Interview:
+  Inu-Oh:
+  'The Inventor: Out for Blood in Silicon Valley':
+  Invictus:
+    label.sync: Oscars
+  The Invisible Man:
+  The Irishman:
+    label.sync: Oscars
+  The Iron Giant:
+    collection.sync:
+    label.sync: Top Picks
+  Iron Man:
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Iron Man 2:
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Iron Man 3:
+    collection.sync: Marvel Collection
+    label.sync:
+    - Trending
+    - Oscars
+  It:
+    collection.sync:
+  It Chapter Two:
+    collection.sync:
+    label.sync: Trending
+  It's the Great Pumpkin, Charlie Brown:
+  The Italian Job:
+  Jackass 3.5:
+    collection.sync: Jackass Collection
+  Jackass 3D:
+    collection.sync: Jackass Collection
+  Jackass 4.5:
+    collection.sync: Jackass Collection
+  Jackass Forever:
+    collection.sync: Jackass Collection
+  Jackass Number Two:
+    collection.sync: Jackass Collection
+  'Jackass: The Movie':
+    collection.sync: Jackass Collection
+  James and the Giant Peach:
+    label.sync: Oscars
+  James vs. His Future Self:
+  Jesus Christ Superstar:
+    label.sync: Oscars
+  Jesus Christ Vampire Hunter:
+    collection.sync:
+  'Jett Jackson: The Movie':
+  JFK:
+    label.sync: Oscars
+  'JFK Revisited: Through the Looking Glass':
+  Joe Dirt:
+  'John Lewis: Good Trouble':
+  'John Wick: Chapter 1':
+    title: 'John Wick: Chapter 1'
+    match:
+      title:
+      - 'John Wick: Chapter 1'
+      - John Wick
+    collection.sync:
+    - John Wick Collection
+    - HFRR Movie Night
+    label.sync: Trending
+  'John Wick: Chapter 2':
+    collection.sync: John Wick Collection
+    label.sync:
+  'John Wick: Chapter 3 - Parabellum':
+    collection.sync: John Wick Collection
+  'John Wick: Chapter 4':
+    collection.sync: John Wick Collection
+    label.sync:
+  Jojo Rabbit:
+    label.sync: Oscars
+  Joker:
+    collection.sync:
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  'Joker: Folie à Deux':
+  'Ju-on: The Grudge':
+  Judas and the Black Messiah:
+    label.sync: Oscars
+  Jumanji:
+  'Jumanji: The Next Level':
+  'Jumanji: Welcome to the Jungle':
+  'Jump Shot: The Kenny Sailors Story':
+  The Jungle Book (1967):
+    match:
+      title: The Jungle Book
+      year: 1967
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  The Jungle Book (2016):
+    match:
+      title: The Jungle Book
+      year: 2016
+    collection.sync: Disney Live Action Collection
+    label.sync: Oscars
+  Jungle Cruise:
+  Jurassic Park:
+    collection.sync: Jurassic Park Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  'The Lost World: Jurassic Park':
+    sort_title: Jurassic Park II
+    collection.sync: Jurassic Park Collection
+    label.sync: Oscars
+  Jurassic Park III:
+    collection.sync: Jurassic Park Collection
+  Jurassic World:
+    collection.sync: Jurassic Park Collection
+    label.sync:
+  'Jurassic World: Dominion':
+    collection.sync: Jurassic Park Collection
+  'Jurassic World: Fallen Kingdom':
+    collection.sync: Jurassic Park Collection
+  Just Visiting:
+  Justice League:
+    collection.sync: DC Universe Collection
+  The Karate Kid:
+    label.sync: Oscars
+  Kiki's Delivery Service:
+    collection.sync: Studio Ghibli Collection
+  'Kill Bill: Vol. 1':
+    collection.sync: Tarantino Collection
+    label.sync: Top Picks
+  'Kill Bill: Vol. 2':
+    collection.sync: Tarantino Collection
+  Killers of the Flower Moon:
+    collection.sync:
+    label.sync: Oscars
+  The Killing Fields:
+    label.sync: Oscars
+  King Kong:
+    label.sync: Oscars
+  'The King of Kong: A Fistful of Quarters':
+  The King's Speech:
+    label.sync: Oscars
+  Kingdom of the Planet of the Apes:
+    collection.sync: The 2025 Oscars
+    label.sync:
+    - Best Unwatched 2024 Movies
+    - Best of 2024
+  'Kingsman: The Golden Circle':
+  'Kingsman: The Secret Service':
+  Kiss Me Goodbye:
+  A Knight's Tale:
+  Knives Out:
+    collection.sync: Knives Out Collection
+    label.sync: Oscars
+  Knock at the Cabin:
+  Kubo and the Two Strings:
+    collection.sync:
+    label.sync: Oscars
+  Kung Fu Panda:
+    collection.sync:
+    - Kung Fu Panda Collection
+    - DreamWorks Collection
+    label.sync: Oscars
+  Kung Fu Panda 2:
+    collection.sync:
+    - Kung Fu Panda Collection
+    - DreamWorks Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Kung Fu Panda 3:
+    collection.sync:
+    - Kung Fu Panda Collection
+    - DreamWorks Collection
+  Kung Fu Panda 4:
+    collection.sync: Kung Fu Panda Collection
+  Kung Fury:
+  'Kung Pow: Enter the Fist':
+  L.A. Confidential:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  La La Land:
+    label.sync:
+    - Trending
+    - Oscars
+  Lady and the Tramp:
+    collection.sync: Disney Animation Collection
+  Lady Bird:
+    label.sync: Oscars
+  The Land Before Time:
+  Land of the Lost:
+  'Lara Croft: Tomb Raider':
+    collection.sync: Tomb Raider Collection
+  'Lara Croft: Tomb Raider - The Cradle of Life':
+    collection.sync: Tomb Raider Collection
+  The Last Airbender:
+  The Last Duel:
+  The Last Full Measure:
+  Late Night with the Devil:
+    label.sync:
+    - Best Unwatched 2024 Movies
+    - Best of 2024
+  The Lego Batman Movie:
+    collection.sync: LEGO Collection
+  A Lego Brickumentary:
+  The Lego Movie:
+    collection.sync: LEGO Collection
+    label.sync: Oscars
+  'The Lego Movie 2: The Second Part':
+    collection.sync: LEGO Collection
+  The Lego Ninjago Movie:
+    collection.sync: LEGO Collection
+  Lego Star Wars Terrifying Tales:
+    collection.sync: LEGO Collection
+    label.sync: Disney+
+  Les Misérables:
+    label.sync: Oscars
+  A Letter to Momo:
+  Liar Liar:
+  Licence to Kill:
+    collection.sync: 007 Collection
+  Life Itself:
+  The Lighthouse:
+    label.sync: Oscars
+  Lightyear:
+    collection.sync: Pixar Collection
+  Lilo & Stitch:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Limitless:
+  Lincoln:
+    label.sync: Oscars
+  The Lion King:
+    collection.sync: Disney Live Action Collection
+    label.sync: Oscars
+  The Little Mermaid:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Little Women:
+    label.sync: Oscars
+  Live and Let Die:
+    collection.sync: 007 Collection
+    label.sync: Oscars
+  The Living Daylights:
+    collection.sync: 007 Collection
+  Logan:
+    collection.sync:
+    - X-Men Collection
+    - Marvel Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Look Back:
+    label.sync: Prime Video
+  Looper:
+  'The Lord of the Rings: The Fellowship of the Ring':
+    collection.sync: Middle-Earth Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  'The Lord of the Rings: The Return of the King':
+    collection.sync: Middle-Earth Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  'The Lord of the Rings: The Two Towers':
+    collection.sync: Middle-Earth Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  'The Lord of the Rings: The War of the Rohirrim':
+  Lords of Dogtown:
+    collection.sync:
+    label.sync: APPROVED
+  The Lost Boys:
+  The Lost City:
+  Lost in Translation:
+    collection.sync:
+    label.sync: Oscars
+  Love Actually:
+  Loving Vincent:
+    collection.sync:
+    label.sync: Oscars
+  Luca:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Lust, Caution:
+  The Machine:
+  Mad Max:
+  'Mad Max: Fury Road':
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Maestro:
+    collection.sync:
+    label.sync: Oscars
+  A Man Called Otto:
+  Man of Steel:
+    collection.sync: DC Universe Collection
+  The Man with the Golden Gun:
+    collection.sync: 007 Collection
+  Mank:
+    label.sync: Oscars
+  Margin Call:
+    label.sync: Oscars
+  Marriage Story:
+    label.sync: Oscars
+  The Martian:
+    label.sync:
+    - Trending
+    - Oscars
+  'Master and Commander: The Far Side of the World':
+    collection.sync:
+    label.sync: Oscars
+  The Master of Disguise:
+  The Matrix:
+    collection.sync: The Matrix Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  The Matrix Reloaded:
+    collection.sync: The Matrix Collection
+  The Matrix Resurrections:
+    collection.sync: The Matrix Collection
+  The Matrix Revolutions:
+    collection.sync: The Matrix Collection
+  Max Reload and the Nether Blasters:
+  Meet the Parents:
+    label.sync: Oscars
+  The Meg:
+  Melancholia:
+    collection.sync:
+  Men:
+  Men in Black:
+    label.sync: Oscars
+  Merry Christmas Mr. Lawrence:
+  The Meteor Man:
+  Midnight in the Garden of Good and Evil:
+  The Midnight Sky:
+    label.sync: Oscars
+  Midsommar:
+    collection.sync: A24
+  'Miles Davis: Birth of the Cool':
+  Minari:
+    label.sync: Oscars
+  The Ministry of Ungentlemanly Warfare:
+  'Mission: Impossible':
+    collection.sync: Mission Impossible Collection
+  'Mission: Impossible - Dead Reckoning':
+    collection.sync: Mission Impossible Collection
+    label.sync: Oscars
+  'Mission: Impossible - Fallout':
+    collection.sync: Mission Impossible Collection
+  'Mission: Impossible - Rogue Nation':
+    collection.sync: Mission Impossible Collection
+  'Mission: Impossible II':
+    collection.sync: Mission Impossible Collection
+  'Mission: Impossible III':
+    collection.sync: Mission Impossible Collection
+  Moana:
+    collection.sync: Disney Animation Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Moana 2:
+    label.sync: Trending
+  Monos:
+  Monsters University:
+    collection.sync: Pixar Collection
+  Monsters, Inc.:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Monty Python and the Holy Grail:
+    collection.sync:
+    label.sync: Top Picks
+  Monty Python's Life of Brian:
+  Moonlight:
+    label.sync: Oscars
+  Moonraker:
+    collection.sync: 007 Collection
+    label.sync: Oscars
+  Moonrise Kingdom:
+    collection.sync:
+    label.sync: Oscars
+  Morbius:
+    collection.sync: Marvel Collection
+    label.sync:
+  Mortal Kombat (1995):
+    match:
+      title: Mortal Kombat
+      year: 1995
+  Mortal Kombat (2021):
+    match:
+      title: Mortal Kombat
+      year: 2021
+  Mr. Deeds:
+  'Mufasa: The Lion King':
+    collection.sync: Disney Live Action Collection
+    label.sync: Trending
+  Mulan (1998):
+    match:
+      title: Mulan
+      year: 1998
+    collection.sync: Disney Animation Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Mulan (2020):
+    match:
+      title: Mulan
+      year: 2020
+    collection.sync: Disney Live Action Collection
+    label.sync: Oscars
+  The Mummy:
+    collection.sync:
+    label.sync: Oscars
+  The Musketeer:
+  My Cousin Vinny:
+    label.sync: Oscars
+  My Neighbor Totoro:
+    collection.sync: Studio Ghibli Collection
+    label.sync: Top Picks
+  'The Naked Gun: From the Files of Police Squad!':
+  Naked Singularity:
+  Napoleon:
+    collection.sync:
+    label.sync: Oscars
+  Napoleon Dynamite:
+  National Treasure:
+  'National Treasure: Book of Secrets':
+  Navalny:
+    label.sync: Oscars
+  Need for Speed:
+  Nefarious:
+  Neighbors:
+  Never Rarely Sometimes Always:
+  The NeverEnding Story:
+  The New Mutants:
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  Nickel Boys:
+    collection.sync: The 2025 Oscars
+    label.sync:
+  Night at the Museum:
+    label.sync:
+  'Night at the Museum: Battle of the Smithsonian':
+  'Night at the Museum: Secret of the Tomb':
+  Night Raiders:
+    collection.sync:
+  The Nightmare Before Christmas:
+    collection.sync:
+    label.sync: Oscars
+  Nine Days:
+  No Country for Old Men:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  No Time to Die:
+    collection.sync: 007 Collection
+    label.sync: Oscars
+  Nomadland:
+    label.sync: Oscars
+  A Nonsense Christmas with Sabrina Carpenter:
+    label.sync: Netflix
+  Nope:
+  Norbit:
+    label.sync: Oscars
+  North by Northwest:
+    collection.sync:
+    label.sync: Top Picks
+  The Northman:
+  Now You See Me:
+  Now You See Me 2:
+  Ocean's Eight:
+  Ocean's Eleven:
+  Ocean's Thirteen:
+  Ocean's Twelve:
+  October Sky:
+  Octopussy:
+    collection.sync: 007 Collection
+  Office Space:
+  Oliver & Company:
+    collection.sync: Disney Animation Collection
+  Olympic Dreams:
+  Olympus Has Fallen:
+  The Omen (1976):
+    match:
+      title: The Omen
+      year: 1976
+    label.sync: Oscars
+  The Omen (2006):
+    match:
+      title: The Omen
+      year: 2006
+  On Her Majesty's Secret Service:
+    collection.sync: 007 Collection
+  On the Rocks:
+    label.sync: Apple TV+
+  Once Upon a Time... in Hollywood:
+    collection.sync: Tarantino Collection
+    label.sync: Oscars
+  One Hundred and One Dalmatians:
+    collection.sync: Disney Animation Collection
+  One Life:
+    label.sync:
+    - Best Unwatched 2024 Movies
+    - Best of 2024
+  One Night in Miami...:
+    label.sync: Oscars
+  Onward:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Operation Varsity Blues:
+    label.sync: Netflix
+  Oppenheimer:
+    collection.sync:
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  Orpheus:
+  Osmosis Jones:
+  Other Music:
+  Outbreak:
+  Outlaw King:
+    label.sync: Netflix
+  Pacific Rim:
+  'Pacific Rim: Uprising':
+  The Pale Door:
+  Pandemic:
+  Paprika:
+    collection.sync:
+  Parasite:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Particle Fever:
+  Past Lives:
+    collection.sync: A24
+    label.sync: Oscars
+  'PAW Patrol: The Mighty Movie':
+  The Peanut Butter Falcon:
+  Pearl:
+  Pearl Harbor:
+    label.sync: Oscars
+  The Perks of Being a Wallflower:
+    collection.sync:
+    label.sync: APPROVED
+  Peter Pan:
+    collection.sync: Disney Animation Collection
+  Peter Pan & Wendy:
+    collection.sync: Disney Live Action Collection
+    label.sync: Disney+
+  The Phantom of Liberty:
+  Pi:
+  Pig:
+  Pineapple Express:
+  'Pink Floyd: The Wall':
+  'Pirates of the Caribbean: The Curse of the Black Pearl':
+    sort_title: Pirates of the Caribbean 1
+    collection.sync: Pirates of the Caribbean Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  "Pirates of the Caribbean: Dead Man's Chest":
+    sort_title: Pirates of the Caribbean 2
+    collection.sync: Pirates of the Caribbean Collection
+    label.sync: Oscars
+  "Pirates of the Caribbean: At World's End":
+    sort_title: Pirates of the Caribbean 3
+    collection.sync: Pirates of the Caribbean Collection
+    label.sync: Oscars
+  'Pirates of the Caribbean: On Stranger Tides':
+    sort_title: Pirates of the Caribbean 4
+    collection.sync: Pirates of the Caribbean Collection
+  'Pirates of the Caribbean: Dead Men Tell No Tales':
+    sort_title: Pirates of the Caribbean 5
+    collection.sync: Pirates of the Caribbean Collection
+  Pitch Black:
+  Planes, Trains & Automobiles:
+  Platoon:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Playtime:
+  "Please Don't Destroy: The Treasure of Foggy Mountain":
+  Pocahontas:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  'Pokémon the Movie: Secrets of the Jungle':
+  'Pokémon: Detective Pikachu':
+  'Pokémon: The First Movie':
+  Pompeii:
+  Ponyo:
+    label.sync: PURGE
+  Poor Things:
+    collection.sync:
+    label.sync: Oscars
+  Porno:
+  Poser:
+  The Power of the Dog:
+    label.sync: Oscars
+  Practical Magic:
+    collection.sync:
+  Predator:
+    label.sync: Oscars
+  The Prestige:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  'Prince of Persia: The Sands of Time':
+  The Princess Bride:
+    label.sync: Oscars
+  The Princess Diaries:
+  Princess Mononoke:
+    collection.sync: Studio Ghibli Collection
+    label.sync: Top Picks
+  Project X:
+  Prometheus:
+    collection.sync: Alien Collection
+    label.sync: Oscars
+  Proximity:
+  Pulp Fiction:
+    collection.sync: Tarantino Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  'The Purge: Election Year':
+    collection.sync:
+  'Puss in Boots: The Last Wish':
+    collection.sync: DreamWorks Collection
+    label.sync: Oscars
+  Quantum of Solace:
+    collection.sync: 007 Collection
+  Quarantine:
+  'A Quiet Place: Day One':
+    collection.sync:
+    label.sync: APPROVED
+  Raiders of the Lost Ark:
+    collection.sync: Indiana Jones Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Ralph Breaks the Internet:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Rat Race:
+  Ratatouille:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Raya and the Last Dragon:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Ready Player One:
+    label.sync: Oscars
+  A Real Pain:
+    collection.sync: The 2025 Oscars
+    label.sync: Trending
+  'Rebel Moon - Part One: A Child of Fire':
+    collection.sync:
+    label.sync: Netflix
+  'Rebel Moon - Part Two: The Scargiver':
+    label.sync: APPROVED
+  Red Notice:
+    label.sync: Netflix
+  Reefer Madness:
+  Remember the Titans:
+  Repo! The Genetic Opera:
+  Reservoir Dogs:
+    collection.sync: Tarantino Collection
+    label.sync: Top Picks
+  Return to Halloweentown:
+  The Revenant:
+    label.sync: Oscars
+  Rise of the Planet of the Apes:
+    collection.sync: Planet of the Apes Collection
+    label.sync: Oscars
+  The Road to El Dorado:
+  Road to Perdition:
+    collection.sync:
+    label.sync:
+    - Oscars
+    - APPROVED
+  Robin Hood:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  RoboCop:
+    label.sync: Oscars
+  Robots:
+  Rock the Kasbah:
+  Rocky:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  The Rocky Horror Picture Show:
+    collection.sync:
+  The Room:
+    collection.sync:
+  The Royal Tenenbaums:
+    label.sync: Oscars
+  RRR:
+    label.sync: Oscars
+  Saltburn:
+    collection.sync:
+    label.sync: Prime Video
+  Same Time, Next Year:
+    label.sync: Oscars
+  San Andreas:
+  Saving Private Ryan:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Say Anything:
+  Scarface:
+    collection.sync:
+    label.sync: Top Picks
+  Scary Movie:
+    collection.sync:
+  Scary Movie 2:
+    collection.sync:
+  Scary Movie 3:
+    collection.sync:
+    label.sync: Trending
+  Scary Movie 4:
+    collection.sync:
+  Scary Stories to Tell in the Dark:
+    collection.sync:
+  Schindler's List:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  School of Rock:
+  Scoob!:
+  Scott Pilgrim vs. the World:
+  Scream:
+    collection.sync:
+  Se7en:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Sea of Shadows:
+  The Secret Garden:
+  The Secret Life of Walter Mitty:
+  The Secret of NIMH:
+  Secret Window:
+  Seems Like Old Times:
+  The Settlers:
+    label.sync:
+    - Best Unwatched 2024 Movies
+    - Best of 2024
+  Seven Samurai:
+    collection.sync:
+    label.sync: Top Picks
+  Shadow in the Cloud:
+  Shang-Chi and the Legend of the Ten Rings:
+    collection.sync: Marvel Collection
+    label.sync: Oscars
+  The Shape of Water:
+    label.sync: Oscars
+  Shaun of the Dead:
+    collection.sync:
+  The Shawshank Redemption:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Shazam!:
+    collection.sync: DC Universe Collection
+  Sherlock Holmes:
+    label.sync: Oscars
+  'Sherlock Holmes: A Game of Shadows':
+  Shin Godzilla:
+  The Shining:
+    collection.sync:
+    label.sync: Top Picks
+  Shrek:
+    collection.sync:
+    - DreamWorks Collection
+    - Shrek Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Shrek 2:
+    collection.sync:
+    - DreamWorks Collection
+    - Shrek Collection
+    label.sync: Oscars
+  Shrek the Third:
+    collection.sync:
+    - Shrek Collection
+    - DreamWorks Collection
+  Shutter Island:
+    collection.sync:
+    label.sync:
+    - Trending
+    - Top Picks
+  Sicario:
+    label.sync: Oscars
+  Signs:
+    collection.sync:
+  Silence:
+    label.sync: Oscars
+  The Silence of the Lambs:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Silent Hill:
+    collection.sync:
+  Sixteen Candles:
+  The Sixth Sense:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Skyfall:
+    collection.sync: 007 Collection
+    label.sync: Oscars
+  Snow on tha Bluff:
+  Snowden:
+  The Social Network:
+    label.sync: Oscars
+  Solar Plexus:
+  Solaris:
+  Somewhere in Time:
+    label.sync: Oscars
+  Sonic the Hedgehog:
+  Sonic the Hedgehog 2:
+  Sorry to Bother You:
+    collection.sync:
+  Soul:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Sound of Metal:
+    label.sync: Oscars
+  Space Jam:
+  'Space Jam: A New Legacy':
+  Spaceballs:
+  Spectre:
+    collection.sync: 007 Collection
+    label.sync: Oscars
+  Spider-Man 3:
+  'Spider-Man: Across the Spider-Verse':
+    collection.sync: Marvel Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  'Spider-Man: Far from Home':
+    collection.sync: Marvel Collection
+  'Spider-Man: Homecoming':
+    collection.sync: Marvel Collection
+    label.sync: Trending
+  'Spider-Man: Into the Spider-Verse':
+    collection.sync: Marvel Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  'Spider-Man: No Way Home':
+    collection.sync: Marvel Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Spirited:
+    label.sync: Apple TV+
+  Spirited Away:
+    collection.sync: Studio Ghibli Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  'The SpongeBob Movie: Sponge on the Run':
+  Sputnik:
+  Spy Kids:
+  The Spy Who Loved Me:
+    collection.sync: 007 Collection
+    label.sync: Oscars
+  The Stanford Prison Experiment:
+  A Star Is Born:
+    label.sync: Oscars
+  'Star Trek: The Motion Picture':
+    sort_title: Star Trek 1
+    label.sync: Oscars
+  'Star Trek II: The Wrath of Khan':
+    sort_title: Star Trek 2
+  'Star Trek III: The Search for Spock':
+    sort_title: Star Trek 3
+  'Star Trek IV: The Voyage Home':
+    sort_title: Star Trek 4
+    label.sync: Oscars
+  'Star Trek V: The Final Frontier':
+    sort_title: Star Trek 5
+  'Star Trek VI: The Undiscovered Country':
+    sort_title: Star Trek 6
+    label.sync: Oscars
+  'Star Trek: Generations':
+    sort_title: Star Trek 7
+  'Star Trek: First Contact':
+    sort_title: Star Trek 8
+    label.sync: Oscars
+  'Star Trek: Insurrection':
+    sort_title: Star Trek 9
+  'Star Trek: Nemesis':
+    sort_title: Star Trek 10
+  Star Trek:
+    title: Star Trek
+    sort_title: Star Trek 12
+    label.sync: Oscars
+  Star Trek Into Darkness:
+    sort_title: Star Trek 13
+    label.sync: Oscars
+  Star Trek Beyond:
+    sort_title: Star Trek 14
+    label.sync: Oscars
+  The Star Wars Holiday Special:
+    collection.sync: Star Wars Collection
+  'Star Wars: Episode I - The Phantom Menace':
+    sort_title: 'Star Wars: Episode 1'
+    collection.sync: Star Wars Collection
+    label.sync: Oscars
+  'Star Wars: Episode II - Attack of the Clones':
+    sort_title: 'Star Wars: Episode 2'
+    collection.sync: Star Wars Collection
+    label.sync: Oscars
+  'Star Wars: The Clone Wars':
+    sort_title: 'Star Wars: Episode IIB'
+    collection.sync: Star Wars Collection
+  'Star Wars: Clone Wars':
+    title: 'Star Wars: Clone Wars'
+    sort_title: 'Star Wars: Episode IIC'
+    collection.sync: Star Wars Collection
+  'Star Wars: Episode III - Revenge of the Sith':
+    collection.sync: Star Wars Collection
+    label.sync:
+    - Trending
+    - Oscars
+  'Solo: A Star Wars Story':
+    sort_title: 'Star Wars: Episode IIII'
+    collection.sync: Star Wars Collection
+    label.sync: Oscars
+  'Rogue One: A Star Wars Story':
+    sort_title: 'Star Wars: Episode IIIII'
+    collection.sync: Star Wars Collection
+    label.sync: Oscars
+  'Star Wars: Episode IV - A New Hope':
+    title: 'Star Wars: Episode IV - A New Hope'
+    match:
+      title:
+      - 'Star Wars: Episode IV - A New Hope'
+      - Star Wars
+    sort_title: 'Star Wars: Episode IV - A New Hope'
+    collection.sync: Star Wars Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  'Star Wars: Episode V - The Empire Strikes Back':
+    sort_title: 'Star Wars: Episode V - The Empire Strikes Back'
+    collection.sync: Star Wars Collection
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  'Star Wars: Episode VI - Return of the Jedi':
+    collection.sync: Star Wars Collection
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  'Star Wars: Caravan of Courage':
+    title: 'Star Wars: Caravan of Courage'
+    match:
+      title:
+      - 'Star Wars: Caravan of Courage'
+      - The Ewok Adventure
+    sort_title: 'Star Wars: Episode VIa'
+    collection.sync: Star Wars Collection
+  'Star Wars: The Battle for Endor':
+    title: 'Star Wars: The Battle for Endor'
+    match:
+      title:
+      - 'Star Wars: The Battle for Endor'
+      - 'Ewoks: The Battle for Endor'
+    sort_title: 'Star Wars: Episode VIb'
+    collection.sync: Star Wars Collection
+  'Star Wars: Episode VII - The Force Awakens':
+    collection.sync: Star Wars Collection
+    label.sync: Oscars
+  'Star Wars: Episode VIII - The Last Jedi':
+    collection.sync: Star Wars Collection
+    label.sync: Oscars
+  'Star Wars: The Rise Of Skywalker':
+    sort_title: 'Star Wars: Episode Z - The Rise of Skywalker'
+    collection.sync: Star Wars Collection
+    label.sync: Oscars
+  Starship Troopers:
+    label.sync: Oscars
+  Step Brothers:
+  Sting:
+  Strange World:
+    collection.sync: Disney Animation Collection
+  Stranger Than Fiction:
+  The Substance:
+    label.sync: Trending
+  Suicide Squad:
+    collection.sync: DC Universe Collection
+    label.sync: Oscars
+  Sully:
+    collection.sync:
+    label.sync: Oscars
+  The Super Mario Bros. Movie:
+    label.sync: Trending
+  Super Size Me:
+    label.sync: Oscars
+  Super Troopers:
+  Superbad:
+  Suspiria:
+    label.sync: Prime Video
+  Suzume:
+  The Swan Princess:
+  Swingers:
+    collection.sync:
+  Swiss Army Man:
+  The Sword in the Stone:
+    collection.sync: Disney Animation Collection
+  'Take Your Pills: Xanax':
+    label.sync: Netflix
+  Tampopo:
+    label.sync: PURGE
+  Tangled:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  Taxi Driver:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  'Taylor Swift: The Eras Tour':
+  Tenet:
+    collection.sync:
+    label.sync: Oscars
+  The Terminator:
+    collection.sync:
+    label.sync: Top Picks
+  'Terminator 2: Judgment Day':
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Terrifier:
+  Terrifier 2:
+  Terrifier 3:
+    label.sync:
+    - Best Unwatched 2024 Movies
+    - Best of 2024
+  Tetris:
+    label.sync: Apple TV+
+  There Will Be Blood:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  They Shall Not Grow Old:
+    collection.sync:
+  The Thing:
+    label.sync: Top Picks
+  Thirteen Days:
+  This Is the End:
+  This Place Rules:
+  Thor:
+    collection.sync: Marvel Collection
+    label.sync:
+  'Thor: Love and Thunder':
+    collection.sync: Marvel Collection
+  'Thor: Ragnarok':
+    collection.sync: Marvel Collection
+    label.sync: Trending
+  'Thor: The Dark World':
+    collection.sync: Marvel Collection
+  Three Billboards Outside Ebbing, Missouri:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Thunderball:
+    collection.sync: 007 Collection
+  TIE Fighter:
+  Titanic:
+    label.sync: Oscars
+  To Wong Foo, Thanks for Everything! Julie Newmar:
+  Tokyo Godfathers:
+  Tokyo Story:
+    collection.sync:
+    label.sync: Top Picks
+  Tom and Jerry:
+  Tomb Raider:
+    collection.sync: Tomb Raider Collection
+  Tombstone:
+  Tomorrow Never Dies:
+    collection.sync: 007 Collection
+  Top Gun:
+    collection.sync: Top Gun Collection
+    label.sync: Oscars
+  'Top Gun: Maverick':
+    collection.sync: Top Gun Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Total Recall:
+    label.sync: Oscars
+  Totally Killer:
+    label.sync: Prime Video
+  Toy Story:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Toy Story 2:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Toy Story 3:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  Toy Story 4:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Train to Busan:
+  Trainspotting:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Transcendence:
+    collection.sync:
+  Transformers:
+    label.sync: Oscars
+  'Transformers: Age of Extinction':
+  'Transformers: Dark of the Moon':
+    label.sync: Oscars
+  'Transformers: Revenge of the Fallen':
+    label.sync: Oscars
+  Treasure Planet:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  The Trial of the Chicago 7:
+    label.sync: Oscars
+  Trick 'r Treat:
+    collection.sync:
+  'Tron: Legacy':
+    label.sync: Oscars
+  Tropic Thunder:
+    label.sync: Oscars
+  Troy:
+    label.sync: Oscars
+  The Truman Show:
+    collection.sync:
+    label.sync:
+    - Trending
+    - Top Picks
+    - Oscars
+  Turning Red:
+    collection.sync: Pixar Collection
+    label.sync: Oscars
+  Twilight:
+    collection.sync: The Twilight Saga Collection
+  'The Twilight Saga: Breaking Dawn - Part 1':
+    collection.sync: The Twilight Saga Collection
+  'The Twilight Saga: Breaking Dawn - Part 2':
+    collection.sync: The Twilight Saga Collection
+  'The Twilight Saga: Eclipse':
+    collection.sync: The Twilight Saga Collection
+  'The Twilight Saga: New Moon':
+    collection.sync: The Twilight Saga Collection
+  Twisters:
+    label.sync: Trending
+  'Ultramarines: A Warhammer 40,000 Movie':
+  The Unbearable Weight of Massive Talent:
+  Uncharted:
+  Uncut Gems:
+    label.sync: Netflix
+  Us:
+    collection.sync:
+  The Usual Suspects:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  V/H/S/94:
+  Vacation:
+  Venom:
+    collection.sync: Marvel Collection
+    label.sync:
+  'Venom: Let There Be Carnage':
+    collection.sync: Marvel Collection
+  'Venom: The Last Dance':
+    collection.sync: Marvel Collection
+    label.sync: Trending
+  Vice:
+    label.sync: Oscars
+  A View to a Kill:
+    collection.sync: 007 Collection
+  Violent Night:
+  Vivre Sa Vie:
+  W.:
+  Waiting...:
+  Waking Life:
+  'Walk Hard: The Dewey Cox Story':
+    collection.sync:
+  WALL·E:
+    collection.sync: Pixar Collection
+    label.sync:
+    - Top Picks
+    - Oscars
+  War Dogs:
+  War for the Planet of the Apes:
+    collection.sync: Planet of the Apes Collection
+    label.sync: Oscars
+  War of the Worlds:
+    label.sync: Oscars
+  Warcraft:
+    collection.sync: HFRR Movie Night
+  Watchmen:
+    collection.sync:
+  The Waterboy:
+  Watson:
+  Wayne's World:
+  We Live in Time:
+    label.sync:
+    - Best Unwatched 2024 Movies
+    - Best of 2024
+  Weekend at Bernie's:
+  Weekend at Bernie's II:
+  'Weird: The Al Yankovic Story':
+  Werewolf by Night:
+    collection.sync: Marvel Collection
+    label.sync: Disney+
+  Werewolves Within:
+  The Whale:
+    label.sync: Oscars
+  Where the Crawdads Sing:
+  Where the Wild Things Are:
+  Whiplash:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  White Chicks:
+  'White Hot: The Rise & Fall of Abercrombie & Fitch':
+    label.sync: Netflix
+  Who Framed Roger Rabbit:
+    label.sync: Oscars
+  Wicked:
+    collection.sync: The 2025 Oscars
+    label.sync: Trending
+  Wild Indian:
+  The Wild Robot:
+    collection.sync: The 2025 Oscars
+    label.sync:
+    - Top Picks
+    - Trending
+  Wild Strawberries:
+    collection.sync:
+    label.sync: Top Picks
+  Willy Wonka & the Chocolate Factory:
+    label.sync: Oscars
+  The Wind:
+    collection.sync:
+  Wish:
+    collection.sync: Disney Animation Collection
+  The Wizard of Oz:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Oscars
+  Wolf Man:
+    label.sync: Trending
+  The Wolf of Wall Street:
+    collection.sync:
+    label.sync:
+    - Top Picks
+    - Trending
+    - Oscars
+  Wolf Warrior:
+  The Wolverine:
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  A Woman Is a Woman:
+  The Woman King:
+  Wonder Woman:
+    collection.sync: DC Universe Collection
+  Wonka:
+    collection.sync:
+  The World Is Not Enough:
+    collection.sync: 007 Collection
+  Wreck-It Ralph:
+    collection.sync: Disney Animation Collection
+    label.sync: Oscars
+  X-Men:
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  'X-Men Origins: Wolverine':
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  'X-Men: Apocalypse':
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  'X-Men: Dark Phoenix':
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  'X-Men: Days of Future Past':
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+    label.sync: Oscars
+  'X-Men: First Class':
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  'X-Men: The Last Stand':
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  'X2: X-Men United':
+    collection.sync:
+    - Marvel Collection
+    - X-Men Collection
+  Yellow Submarine:
+  Yesterday:
+  You Only Live Twice:
+    collection.sync: 007 Collection
+  Your Name.:
+    collection.sync:
+    label.sync: Top Picks
+  Youth in Revolt:
+  Zack Snyder's Justice League:
+    collection.sync: DC Universe Collection
+    label.sync: Oscars
+  Zen - Grogu and Dust Bunnies:
+    label.sync: Disney+
+  Zero Dark Thirty:
+    label.sync: Oscars
+  Zodiac:
+  Zombieland:
+    collection.sync:
+  'Zombieland: Double Tap':
+    collection.sync:
+  The Zone of Interest:
+    collection.sync: A24
+    label.sync: Oscars
+  Zoolander:
+  Zootopia:
+    collection.sync: Disney Animation Collection
+    label.sync:
+    - Trending
+    - Oscars
+  Last Breath:
+    label.sync:
+    - Best of 2024
+    - Trending
+  Flow:
+    label.sync: Trending
