@@ -32,7 +32,6 @@ templates:
         label: <<smart_label>>
     sort_title: +1_<<num>><<collection_name>>
     sync_mode: sync
-    smart_label: random
     collection_filtering: user
     filters:
       plays.lt: 1
@@ -48,7 +47,6 @@ templates:
     filters:
       plays.lt: 1
     summary: Rotten Tomatoes Best of <<year>>
-    smart_label: audience_rating.desc
 collections:
   Trending Movies:
     template: { name: Chart, num: 2 }
